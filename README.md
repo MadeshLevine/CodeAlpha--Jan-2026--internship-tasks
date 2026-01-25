@@ -1,4 +1,4 @@
-# CodeAlpha--Jan-2026--internship-tasks
+# CodeAlpha_tasks
 CodeAlpha C Programming Internship – Task Completion
 
 This repository contains the internship tasks completed by me that were assigned to me by CodeAlpha.
